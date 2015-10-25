@@ -1,4 +1,4 @@
 # hello-world
 trial
 
-hello these, i've had tacos on the moond and find them far superior to earth tacos!
+hello there, i've had tacos on the moon and find them far superior to earth's tacos!
